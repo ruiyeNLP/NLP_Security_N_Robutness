@@ -7,7 +7,7 @@
 - [Evaluating Large Language Models Trained on Code](https://arxiv.org/pdf/2107.03374.pdf)
 - [truthfulQA](https://github.com/sylinrl/TruthfulQA)
 - [AllenNLP Interpret](https://arxiv.org/abs/1909.09251)
-### My exploration 
+
 
 ## adversarial attack (mt, adversaraial, black; another gitproject)
 
@@ -16,7 +16,7 @@
 - [Universarial adversarial triggers](https://arxiv.org/abs/1908.07125)
 - [Adversarial Semantic Collisions](https://arxiv.org/pdf/2011.04743.pdf)
 - project [TextAttack](https://github.com/QData/TextAttack) 
-### My exploration 
+### [My exploration](https://github.com/ruiyeNLP/adversarial_attack) 
 ### backdoor attack 
 - [Concealed Data Poisoning Attacks on NLP Models](https://arxiv.org/abs/2010.12563)
 
