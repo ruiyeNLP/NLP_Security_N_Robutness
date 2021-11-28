@@ -7,15 +7,21 @@ Examples of work
 - AllenNLP Interpret (https://arxiv.org/abs/1909.09251)
 
 adversarial attack (mt, adversaraial, black; another gitproject)
-
+- adversarial attack on MT models (https://arxiv.org/abs/2004.15015)
+- Universarial adversarial triggers (https://arxiv.org/abs/1908.07125)
+- Adversarial Semantic Collisions (https://arxiv.org/pdf/2011.04743.pdf)
 - small
 - large-scale 
 
-- backdoor attack 
+backdoor attack 
+- Concealed Data Poisoning Attacks on NLP Models (https://arxiv.org/abs/2010.12563)
+
 
 Integrity of NLP models
-- membership inference attack
+- membership inference on text-generation models(https://arxiv.org/pdf/1811.00513.pdf)
+- training data extraction (https://arxiv.org/abs/2012.07805)
+- Information Leakage in Embedding Models (https://arxiv.org/pdf/2004.00053.pdf)
 - model stealing attack 
 
-Study on large-scale NLP models
+
 
