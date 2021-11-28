@@ -1,4 +1,4 @@
-# Confidentiality of NLP models
+# Integrity of NLP models
 
 Alignment of NLP models
 
@@ -20,7 +20,7 @@ backdoor attack
 - [Concealed Data Poisoning Attacks on NLP Models](https://arxiv.org/abs/2010.12563)
 
 
-# Integrity of NLP models
+# Confidentiality of NLP models
 
 Examples of work 
 - [membership inference on text-generation models](https://arxiv.org/pdf/1811.00513.pdf)
