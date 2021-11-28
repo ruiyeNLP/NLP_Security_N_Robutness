@@ -12,8 +12,6 @@ adversarial attack (mt, adversaraial, black; another gitproject)
 - adversarial attack on MT models (https://arxiv.org/abs/2004.15015)
 - Universarial adversarial triggers (https://arxiv.org/abs/1908.07125)
 - Adversarial Semantic Collisions (https://arxiv.org/pdf/2011.04743.pdf)
-- small
-- large-scale 
 
 backdoor attack 
 - Concealed Data Poisoning Attacks on NLP Models (https://arxiv.org/abs/2010.12563)
